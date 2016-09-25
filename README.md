@@ -28,3 +28,7 @@ Decompress tar.xz file:
 ```bash
 tar -xJf file.tar.xz
 ```
+
+Motivation:
+---------
+Currently if somebody want to upload files and share it with non-mac users the .zip file will contain unnecessary files such as .DS_Store and __MACOSX, moreover  the compression ratio of 'zip' is low compared to other formats like '7z' or 'tar.xz'.
