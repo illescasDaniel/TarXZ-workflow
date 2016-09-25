@@ -49,7 +49,7 @@ else
 	# One file to compress
 	if [[ $# -eq 1 ]]; then
 		
-		# Check if compressed file already exist
+		# Check if compressed file already exists
 		if [[ -e "$@.tar.xz" ]]; then
 	
 			number=2
