@@ -7,7 +7,9 @@ Instructions:
 
 The workflow was made using a shell script in bash, you can take a look at it on the "Shell-script" folder.
 
-**Features:**
+Features:
+--------
+
 *  Compress any file/ folder to 'tar.xz'
 *  Decompress any 'tar.xz' file
 *  High compression rate (really similar to 7z)
